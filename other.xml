@@ -1,0 +1,72 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.7.2/bin/node">
+      <version-cache version="7.7.2" last-modified="1488974365000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v7.7.2/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.3.0/bin/node">
+      <version-cache version="6.3.0" last-modified="1467824220000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.0.0/bin/node">
+      <version-cache version="5.0.0" last-modified="1446120898000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/bin/node">
+      <version-cache version="7.7.2" last-modified="1488974365000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="4.8.0" last-modified="1487732703000" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://62.217.127.209/radical/city_services" />
+        <option value="http://62.217.127.209/radical/city_services/city-r-us" />
+        <option value="http://62.217.127.209/radical/city_services" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://62.217.127.209/radical/city_services" />
+        <option value="http://62.217.127.209/radical/city_services/city-r-us" />
+        <option value="http://62.217.127.209/radical/city_services" />
+      </list>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
