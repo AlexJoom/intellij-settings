@@ -77,22 +77,22 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile /home/alex/Projects/NikosKapsalis/microsite $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile path/to/project $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="$USER_HOME$/Projects/NikosKapsalis/microsite" />
+      <option name="output" value="" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/var/lib/gems/1.9.1/gems/compass-1.0.1/bin/compass" />
+      <option name="program" value="C:/Ruby22/lib/ruby/gems/2.2.0/gems/compass-1.0.3/bin/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Projects/NikosKapsalis/microsite" />
+      <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
   </component>
