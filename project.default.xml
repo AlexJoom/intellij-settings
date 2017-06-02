@@ -1,11 +1,28 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -78,7 +95,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -97,7 +114,13 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Projects/hello-akka" value="1477133960000" />
+            <entry key="$USER_HOME$/Desktop/play-rest-api" value="2964649892000" />
+            <entry key="$USER_HOME$/Desktop/play-silhouette-postgres-async-seed-master" value="1438446821000" />
+            <entry key="$USER_HOME$/Desktop/play-silhouette-seed-master" value="1443612096000" />
+            <entry key="$USER_HOME$/Desktop/play-silhouette-slick-seed-master" value="1437218362000" />
+            <entry key="$USER_HOME$/Projects/democracit/DemocracIT-Web" value="1459249190055" />
+            <entry key="$USER_HOME$/Projects/newsum/newsum_api" value="1482338858322" />
+            <entry key="$USER_HOME$/Projects/play-silhouette-seed-master" value="1438027065000" />
           </map>
         </option>
         <option name="externalProjectsViewState">

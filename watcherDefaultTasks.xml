@@ -1,0 +1,99 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="SCSS" />
+      <option name="output" value="$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/scss" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--source-maps --out-file $FileNameWithoutExtension$-compiled.js $FilePath$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Transpiles ECMAScript 6 code to ECMAScript 5" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="*" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Babel" />
+      <option name="output" value="$FileNameWithoutExtension$-compiled.js:$FileNameWithoutExtension$-compiled.js.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/babel" />
+      <option name="scopeName" value="jsx" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="$FileName$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compiles .pug and .jade files into .html files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="jade" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Pug/Jade" />
+      <option name="output" value="$FileNameWithoutExtension$.html" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$ExecutableByFileExt$" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="sass" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Sass" />
+      <option name="output" value="$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/sass" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="compile path/to/project $FileName$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Compass SCSS" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Ruby22/lib/ruby/gems/2.2.0/gems/compass-1.0.3/bin/compass" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>

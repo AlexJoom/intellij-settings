@@ -1,44 +1,39 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="1.8" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_91&quot;" />
-      <homePath value="/usr/lib/jvm/java-8-openjdk-amd64" />
+      <name value="ruby-1.9.3-p484" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p0" />
+      <homePath value="/usr/bin/ruby" />
       <roots>
         <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
-          </root>
+          <root type="composite" />
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/" />
+            <root type="simple" url="file:///usr/local/lib/site_ruby/1.9.1" />
+            <root type="simple" url="file:///usr/local/lib/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file:///usr/local/lib/site_ruby" />
+            <root type="simple" url="file:///usr/lib/ruby/1.9.1" />
+            <root type="simple" url="file:///usr/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
           </root>
         </classPath>
         <javadocPath>
           <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/lib/site_ruby/1.9.1" />
+            <root type="simple" url="file:///usr/local/lib/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file:///usr/local/lib/site_ruby" />
+            <root type="simple" url="file:///usr/lib/ruby/1.9.1" />
+            <root type="simple" url="file:///usr/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
         </sourcePath>
       </roots>
-      <additional />
+      <additional NORMALIZED_VERSION_STRING="ver.1.9.3p0" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/usr/bin" />
     </jdk>
   </component>
 </application>
