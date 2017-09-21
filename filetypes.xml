@@ -10,6 +10,7 @@
       <mapping pattern="ONGOING_EVAL" type="PLAIN_TEXT" />
       <mapping pattern="countries" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
+      <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="organizations-test" type="PLAIN_TEXT" />
