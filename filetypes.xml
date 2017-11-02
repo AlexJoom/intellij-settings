@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="eaf" type="DTD" />
       <mapping pattern="TWEETS_1_30" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="tenders" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="notices" type="PLAIN_TEXT" />
