@@ -7,4 +7,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="LiveEditOptions" updatePolicy="AUTO" />
+  <component name="SqlEditorOptions">
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
