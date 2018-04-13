@@ -22,7 +22,6 @@
       <mapping pattern="log_meta_notices" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="INTERPAIRS_FOR_EVALUATION" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.localhost" type="ThymeleafExpressions" />
