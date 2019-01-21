@@ -10,6 +10,7 @@
       <mapping pattern="NEWS_1_30" type="PLAIN_TEXT" />
       <mapping pattern="ONGOING_EVAL" type="PLAIN_TEXT" />
       <mapping pattern="countries" type="PLAIN_TEXT" />
+      <mapping pattern="Αθλητισμός" type="PLAIN_TEXT" />
       <mapping pattern="classification_report_EL_1450535414264" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern="2018_06_19_106648_update_email_actions_history2php" type="PLAIN_TEXT" />
