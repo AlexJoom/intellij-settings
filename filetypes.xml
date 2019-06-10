@@ -4,6 +4,7 @@
       <mapping ext="eaf" type="DTD" />
       <mapping pattern="TWEETS_1_30" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
+      <mapping pattern="SelectTopicEnum.ts" type="PLAIN_TEXT" />
       <mapping pattern="tenders" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="notices" type="PLAIN_TEXT" />
@@ -23,8 +24,8 @@
       <mapping pattern="organizations" type="PLAIN_TEXT" />
       <mapping pattern="types" type="PLAIN_TEXT" />
       <mapping pattern="log_meta_notices" type="PLAIN_TEXT" />
-      <mapping pattern="SelectTopicEnum.ts" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="bs4navwalker" type="PLAIN_TEXT" />
       <mapping pattern="INTERPAIRS_FOR_EVALUATION" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
