@@ -3,14 +3,13 @@
     <extensionMap>
       <mapping ext="eaf" type="DTD" />
       <mapping pattern="TWEETS_1_30" type="PLAIN_TEXT" />
-      <mapping pattern="tst" type="PLAIN_TEXT" />
+      <mapping pattern="SelectTopicEnum.ts" type="PLAIN_TEXT" />
       <mapping pattern="tenders" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="notices" type="PLAIN_TEXT" />
       <mapping pattern="NEWS_1_30" type="PLAIN_TEXT" />
       <mapping pattern="EVALUATIONS" type="PLAIN_TEXT" />
       <mapping pattern="ONGOING_EVAL" type="PLAIN_TEXT" />
-      <mapping pattern="SelectTopicEnum.ts" type="PLAIN_TEXT" />
       <mapping pattern="Αθλητισμός" type="PLAIN_TEXT" />
       <mapping pattern="classification_report_EL_1450535414264" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
@@ -21,20 +20,21 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="organizations-test" type="PLAIN_TEXT" />
       <mapping pattern="organizations" type="PLAIN_TEXT" />
-      <mapping pattern="types" type="PLAIN_TEXT" />
-      <mapping pattern="log_meta_notices" type="PLAIN_TEXT" />
       <mapping pattern="countries" type="PLAIN_TEXT" />
+      <mapping pattern="log_meta_notices" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="types" type="PLAIN_TEXT" />
       <mapping pattern="bs4navwalker" type="PLAIN_TEXT" />
       <mapping pattern="INTERPAIRS_FOR_EVALUATION" type="PLAIN_TEXT" />
+      <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="office" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.localhost" type="ThymeleafExpressions" />
     </extensionMap>
