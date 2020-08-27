@@ -2,31 +2,31 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="eaf" type="DTD" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="log_meta_notices" type="PLAIN_TEXT" />
       <mapping pattern="SelectTopicEnum.ts" type="PLAIN_TEXT" />
       <mapping pattern="tenders" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="types" type="PLAIN_TEXT" />
-      <mapping pattern="TWEETS_1_30" type="PLAIN_TEXT" />
       <mapping pattern="organizations-test" type="PLAIN_TEXT" />
-      <mapping pattern="EVALUATIONS" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="2017_11_13_142111_meetings_add_foreign_key_to_date_dimension.php" type="PLAIN_TEXT" />
       <mapping pattern="INTERPAIRS_FOR_EVALUATION" type="PLAIN_TEXT" />
-      <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping pattern="ONGOING_EVAL" type="PLAIN_TEXT" />
-      <mapping pattern="notices" type="PLAIN_TEXT" />
       <mapping pattern="classification_report_EL_1450535414264" type="PLAIN_TEXT" />
+      <mapping pattern="notices" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="SummaryDump_EL" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="Αθλητισμός" type="PLAIN_TEXT" />
+      <mapping pattern="organizations" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="log_meta_notices" type="PLAIN_TEXT" />
+      <mapping pattern="types" type="PLAIN_TEXT" />
+      <mapping pattern="TWEETS_1_30" type="PLAIN_TEXT" />
+      <mapping pattern="EVALUATIONS" type="PLAIN_TEXT" />
+      <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping pattern="countries" type="PLAIN_TEXT" />
       <mapping pattern="NEWS_1_30" type="PLAIN_TEXT" />
       <mapping pattern="2018_06_19_106648_update_email_actions_history2php" type="PLAIN_TEXT" />
-      <mapping pattern="Αθλητισμός" type="PLAIN_TEXT" />
       <mapping pattern="bs4navwalker" type="PLAIN_TEXT" />
-      <mapping pattern="organizations" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
