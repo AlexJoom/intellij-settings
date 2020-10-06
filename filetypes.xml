@@ -10,11 +10,11 @@
       <mapping pattern="2017_11_13_142111_meetings_add_foreign_key_to_date_dimension.php" type="PLAIN_TEXT" />
       <mapping pattern="INTERPAIRS_FOR_EVALUATION" type="PLAIN_TEXT" />
       <mapping pattern="ONGOING_EVAL" type="PLAIN_TEXT" />
-      <mapping pattern="notices" type="PLAIN_TEXT" />
       <mapping pattern="classification_report_EL_1450535414264" type="PLAIN_TEXT" />
+      <mapping pattern="notices" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="SummaryDump_EL" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="Αθλητισμός" type="PLAIN_TEXT" />
       <mapping pattern="organizations" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
